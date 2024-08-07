@@ -106,7 +106,7 @@ solving directly from physical notebooks and printed materials.
 <h2>Team Presentation</h2>
 
 
-- PPT Link : [PPT](https://docs.google.com/presentation/d/1ZXzor2KNrqZ8Ny1qmx0LuO75yJzyl3uS/edit?usp=sharing&ouid=111607889212039347188&rtpof=true&sd=true)
+- PPT Link : [PPT](https://docs.google.com/presentation/d/1cVilgfNn0Ao8AUfAKf4XrMA-4FKZ2xK-/edit?usp=drive_link&ouid=111607889212039347188&rtpof=true&sd=true)
 
 
 
